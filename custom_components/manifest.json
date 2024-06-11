@@ -1,0 +1,8 @@
+{
+  "domain": "arso_weather",
+  "name": "ARSO Weather",
+  "documentation": "https://www.arso.gov.si",
+  "dependencies": [],
+  "codeowners": [],
+  "version": "1.0"
+}
